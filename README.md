@@ -1,16 +1,15 @@
-## Hi there 👋
+# こんにちは、翠海(すいか)です!
 
-<!--
-**suica-crux/suica-crux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+近畿に住む高校生です。  
+Web系を中心にいろんな技術を試したり、勉強したりしています。
 
-Here are some ideas to get you started:
+## 作った(?)もの
+- `homepage`: 自分のWebサイトをNext.jsで構築しました
+- `dotfiles`: fishシェルやVSCodeなどの設定を管理しています
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 好きなこと
+- 音楽を聴くのが好きです!
+
+---
+
+まだまだ勉強中ですが、よろしくです!
