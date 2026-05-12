@@ -2,9 +2,10 @@
 
 近畿に住む大学生です。  
 Web系を中心にいろんな技術を試したり、勉強したりしています。
+ja/en(/de)
 
 ## 作った(?)もの
-- `homepage`: 自分のWebサイトをNext.jsで構築しました
+- `homepage`: 自分のWebサイトをviteとかで構築しました
 - `dotfiles`: fishシェルやVSCodeなどの設定を管理しています
 
 ## 好きなこと
